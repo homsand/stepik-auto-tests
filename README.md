@@ -1,2 +1,2 @@
 # stepik-auto-tests
-Задания по курсу
+Задания по курсу stepik
